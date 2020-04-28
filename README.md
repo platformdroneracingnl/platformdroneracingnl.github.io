@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/af83681b-2a84-44e9-a437-0b62e62bf011/deploy-status)](https://app.netlify.com/sites/pdrnl/deploys) ![Github Pages](https://github.com/platformdroneracingnl/platformdroneracingnl.github.io/workflows/Github%20Pages/badge.svg?branch=docs)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/af83681b-2a84-44e9-a437-0b62e62bf011/deploy-status)](https://app.netlify.com/sites/pdrnl/deploys) ![Github Pages](https://github.com/platformdroneracingnl/platformdroneracingnl.github.io/workflows/Github%20Pages/badge.svg)
 
 # PDRNL Documentation
 
