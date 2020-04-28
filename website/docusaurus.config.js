@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'My Site',
+  title: 'PDRNL',
   tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://platformdroneracingnl.github.io/',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'platformdroneracingnl', // Usually your GitHub org/user name.
+  projectName: 'platformdroneracingnl.github.io', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'My Site',
