@@ -1418,7 +1418,7 @@
     "@docsearch/css" "3.0.0-alpha.36"
     algoliasearch "^4.0.0"
 
-"@docusaurus/core@2.0.0-beta.2", "@docusaurus/core@^2.0.0-beta.1":
+"@docusaurus/core@2.0.0-beta.2", "@docusaurus/core@^2.0.0-beta.2":
   version "2.0.0-beta.2"
   resolved "https://registry.yarnpkg.com/@docusaurus/core/-/core-2.0.0-beta.2.tgz#92cec7cbf8134a6524f848e2c2209dc71e9f3c87"
   integrity sha512-i0jwYyTFkWUhnN5/eky7fkt7reIvNFH5iOyltXyCxn/DrKCGRqC63g3IbFhvLULl007JKp3vBXvwcNK3IpH8Yw==
